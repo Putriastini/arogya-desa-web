@@ -53,7 +53,7 @@ const DaftarToga = () => {
                   <p className="text-gray-400 text-xs italic mb-6">{plant.latin}</p>
                   
                   <Link 
-                    to={`/togalist/${plant.id}`} 
+                    to={`/daftartoga/${plant.id}`} 
                     className="inline-block bg-[#06371B] text-white text-[12px] font-bold py-2.5 px-8 rounded-lg hover:bg-[#A2C11C] transition-colors shadow-md active:scale-95"
                   >
                     Lihat Detail
