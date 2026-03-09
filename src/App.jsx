@@ -1,11 +1,17 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-green-600">
-      <div className="text-center p-10 bg-white rounded-xl shadow-2xl">
-        <h1 className="text-4xl font-bold text-green-600 mb-2">Arogya Desa 🌿</h1>
-        <p className="text-gray-600">Kalau kamu lihat kotak ini, artinya sistem SUDAH SEMBUH!</p>
+    <div className="min-h-screen bg-gray-50">
+      <Navbar />
+      
+      {/* Spacer supaya konten tidak tertutup Navbar yang fixed */}
+      <div className="pt-16">
+        {/* Nanti kita lanjut bikin bagian Hero di sini */}
+        <div className="text-center py-20">
+          <h1 className="text-4xl font-bold text-gray-800">Navbar Berhasil Terpasang!</h1>
+        </div>
       </div>
     </div>
   );
