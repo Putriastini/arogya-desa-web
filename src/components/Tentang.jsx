@@ -13,7 +13,7 @@ const Tentang = () => {
         {/* Box Putih Melayang */}
         <div className="bg-white rounded-xl shadow-2xl p-8 md:p-12">
           <p className="text-gray-800 leading-relaxed text-justify md:text-center text-sm md:text-base">
-            Website <span className="font-bold text-[#06371B]">AROGYA DESA</span> menyediakan layanan informasi digital yang membantu masyarakat dalam mengenal dan memahami tanaman obat secara mudah dan cepat. Website ini bertujuan untuk meningkatkan literasi kesehatan masyarakat Desa Batuan melalui pemanfaatan kearifan lokal Usada Bali dan Taru Pramana. Melalui platform ini, pengguna dapat mengakses informasi tanaman herbal, manfaat, budidaya, serta pengolahannya secara informatif dan terpercaya.
+            Website <span className="font-bold text-[#06371B]">AROGYA DESA</span> merupakan platform digital Desa Batuan yang mengintegrasikan edukasi tanaman obat berbasis kearifan lokal Usada Bali dan Taru Pramana dengan sistem monitoring kesehatan masyarakat. Melalui platform ini, pengguna dapat mengakses informasi terpercaya mengenai manfaat, budidaya, dan pengolahan herbal, sekaligus melakukan pelaporan kesehatan secara mandiri melalui fitur laporan digital. Kehadiran website ini bertujuan untuk meningkatkan literasi kesehatan serta mendukung kemandirian kesehatan komunitas melalui pemanfaatan teknologi dan tradisi secara selaras.
           </p>
         </div>
       </div>
