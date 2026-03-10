@@ -38,7 +38,7 @@ const Hero = () => {
           
           {/* Tombol Laporan - Isi href dengan link Google Form kamu nanti */}
           <a 
-            href="#" 
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeWpGWoh5lZTWKEx3RiO27Lj41QtO0LOH7Apj3cokOtGXjU5w/viewform?usp=publish-editor" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-3 bg-white text-[#06371B] px-6 py-2 md:px-10 md:py-2.5 rounded-full font-bold text-sm md:text-base shadow-lg hover:scale-105 transition-all min-w-[140px] md:min-w-[180px]"
